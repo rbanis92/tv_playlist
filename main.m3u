@@ -3,14 +3,46 @@
 #EXTINF:-1,Caze Tv
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1,T Sports
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+# FIFA WC 2026
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FIFA WC 2026",T-Sports (FHD) 🇧🇩
+https://bdixserver.tvhunter.top/ant1009/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FIFA WC 2026",T-Sports 2 (FHD) 🇧🇩
+http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FIFA WC 2026",T-Sports 3 (FHD) 🇧🇩
+http://103.165.93.31:8095/tsports/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FIFA WC 2026",T-Sports 4 (FHD) 🇧🇩
+https://bdixserver.tvhunter.top/ant1009/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,BEIN Sports 1
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",Somoy TV (HD) 🇧🇩
+http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",Somoy TV 2 (HD) 🇧🇩
+http://114.130.57.233:8080/Somoy-TV-3Mb/video.m3u8?token=SkQuhAXZxgBan1
 
-#EXTINF:-1,Win Sports
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",Soco Live (HD) 🇻🇳
+https://live.inplyr.com/room/168740.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",Toffee (FHD) 🇧🇩
+https://cdn-tt.pages.dev/ch3.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",TVRI Sports (FHD) 🇺🇸
+http://157.15.187.3:25092/hls/49/49.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",Mahsun TV (HD) 🇹🇷
+https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",616 (4K) 🇺🇸
+http://fastshare1.com/live/25711345/late8airline/745270.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FIFA WC 2026",M6 (HD) 🇫🇷
+https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FIFA WC 2026",Telemundo (FHD) 🇵🇷
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",S Central TV (HD+) 🇺🇸
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FIFA WC 2026",S Sports (FHD) 🇷🇺
+https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",FOX Sports (FHD) 🇺🇸
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FIFA WC 2026",beIN Sports (FHD) 🇷🇺
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/6128/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FIFA WC 2026",Šport (HD) 🇧🇷
+http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 
 #Bangla
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Bangla",BTV (FHD) 🇧🇩
@@ -95,47 +127,6 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Bangla",Ruposhi Bangla TV (HD) 🇧🇩
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
-
-# FIFA WC 2026
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FIFA WC 2026",T-Sports (FHD) 🇧🇩
-https://bdixserver.tvhunter.top/ant1009/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FIFA WC 2026",T-Sports 2 (FHD) 🇧🇩
-http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FIFA WC 2026",T-Sports 3 (FHD) 🇧🇩
-http://103.165.93.31:8095/tsports/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FIFA WC 2026",T-Sports 4 (FHD) 🇧🇩
-https://bdixserver.tvhunter.top/ant1009/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",Somoy TV (HD) 🇧🇩
-http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",Somoy TV 2 (HD) 🇧🇩
-http://114.130.57.233:8080/Somoy-TV-3Mb/video.m3u8?token=SkQuhAXZxgBan1
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",Soco Live (HD) 🇻🇳
-https://live.inplyr.com/room/168740.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",Toffee (FHD) 🇧🇩
-https://cdn-tt.pages.dev/ch3.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",TVRI Sports (FHD) 🇺🇸
-http://157.15.187.3:25092/hls/49/49.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",Mahsun TV (HD) 🇹🇷
-https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",616 (4K) 🇺🇸
-http://fastshare1.com/live/25711345/late8airline/745270.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FIFA WC 2026",M6 (HD) 🇫🇷
-https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FIFA WC 2026",Telemundo (FHD) 🇵🇷
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",S Central TV (HD+) 🇺🇸
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FIFA WC 2026",S Sports (FHD) 🇷🇺
-https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",FOX Sports (FHD) 🇺🇸
-https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FIFA WC 2026",beIN Sports (FHD) 🇷🇺
-http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/6128/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FIFA WC 2026",Šport (HD) 🇧🇷
-http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 
 # Cricket
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Cricket",T-Sports Cricket (FHD) 🇧🇩
