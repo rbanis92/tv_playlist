@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 
 #EXTINF:-1,Caze Tv
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
@@ -12,25 +12,18 @@ http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 http://103.165.93.31:8095/tsports/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FIFA WC 2026",T-Sports 4 (FHD) 🇧🇩
 https://bdixserver.tvhunter.top/ant1009/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",Somoy TV (HD) 🇧🇩
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",Somoy TV 2 (HD) 🇧🇩
 http://114.130.57.233:8080/Somoy-TV-3Mb/video.m3u8?token=SkQuhAXZxgBan1
-
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",Soco Live (HD) 🇻🇳
 https://live.inplyr.com/room/168740.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",Toffee (FHD) 🇧🇩
 https://cdn-tt.pages.dev/ch3.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",TVRI Sports (FHD) 🇺🇸
 http://157.15.187.3:25092/hls/49/49.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",Mahsun TV (HD) 🇹🇷
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",616 (4K) 🇺🇸
-http://fastshare1.com/live/25711345/late8airline/745270.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FIFA WC 2026",M6 (HD) 🇫🇷
-https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FIFA WC 2026",Telemundo (FHD) 🇵🇷
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",S Central TV (HD+) 🇺🇸
@@ -41,8 +34,6 @@ https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FIFA WC 2026",beIN Sports (FHD) 🇷🇺
 http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/6128/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FIFA WC 2026",Šport (HD) 🇧🇷
-http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 
 #Bangla
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Bangla",BTV (FHD) 🇧🇩
@@ -109,8 +100,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720.m3u8
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Bangla",Jago News 24 (FHD) 🇧🇩
 https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Bangla",Ananda TV (HD) 🇧🇩
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Bangla",Deshe Bideshe (HD) 🇧🇩
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Bangla",Desh TV (FHD) 🇧🇩
@@ -139,39 +128,16 @@ http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
 http://27.124.71.27/Willow_Extra/index.m3u8
 
 # Sports
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"group-title="Sports",beIN SPORTS 1 MAX (FHD) 🇶🇦
-http://proxpanel.cc/h1wqD6CY/byxHYgX/707929
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"group-title="Sports",beIN SPORTS 2 MAX (FHD) 🇶🇦
-http://proxpanel.cc/h1wqD6CY/byxHYgX/835129
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"group-title="Sports",beIN SPORTS 2 MAX (FHD) 🇶🇦
-http://proxpanel.cc/h1wqD6CY/byxHYgX/707928
-#EXTINF:-1tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Sports", beIN SPORTS 2 MAX (1K) 🇶🇦
-http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/187357.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Sports",beIN SPORTS 1 (FHD) 🇶🇦
-http://proxpanel.cc/h1wqD6CY/byxHYgX/707929
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Sports", beIN Sports 1 (HD+) 🇶🇦
-http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/149558.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Sports",beIN Sports 1 (HD) 🇶🇦
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"group-title="Sports", beIN SPORTS 3 (HD+) 🇶🇦
-http://newtesla.me/live/adjxyss6a72kb1ax/uqdv8bxry4fsmdg2/149533.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"group-title="Sports",beIN SPORTS 1 MAX (FHD) 🇶🇦
-http://proxpanel.cc/h1wqD6CY/byxHYgX/835130
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"group-title="Sports",beIN SPORTS 3 MAX (FHD) 🇶🇦
-http://proxpanel.cc/h1wqD6CY/byxHYgX/707927
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"group-title="Sports",beIN SPORTS 4 (FHD) 🇶🇦
-http://proxpanel.cc/h1wqD6CY/byxHYgX/707926
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="Sports",bein Sports 4 (FHD) 🇶🇦
 http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78381.ts
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="Sports",bein Sports 5 MAX (FHD) 🇺🇸
-http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="Sports",bein Sports XTRA (HD) 🇺🇸
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Sports",beIN SPORTS XTRA (HD) 🇪🇸
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Sports",beIN SPORTS XTRA (FHD) 🇺🇸
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Sports", Real Madrid Sports (HD+) 🇪🇸
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Sports", Motor Vision (FHD) 🇺🇸
@@ -228,8 +194,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Sports",FOX Sports (FHD) 🇺🇸
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="Sports",ESPN 4 (FHD) 🇺🇸
-http://193.239.186.231/ESPN4/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="Sports",Sporting TV (HD) 🇪🇸
 http://znty.dyndns.org:5010/hls/sporting.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="Sports",Drone TV (HD) 🇺🇸
@@ -242,32 +206,8 @@ https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-
 https://1261a78709344810a5b834d397509879.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-738-H2OTV-SPORTSTRIBALTV/mt/sportstribaltv/738/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="Sports",Hard Knocks (FHD) 🇺🇸
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribalV2/121.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="Sports",ESPN (HD) 🇦🇷
-http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/377719
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="Sports",ESPN 2 (SD) 🇦🇷
-http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327915
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="Sports",ESPN 3 (SD) 🇦🇷
-http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327916
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="Sports",Arena Sport 1 (SD) 🇦🇷
-http://178.253.194.79:10006
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="Sports",Arena Sport 2 (SD) 🇦🇷
-http://178.253.194.79:10007
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="Sports",Arena Sport 3 (SD) 🇦🇷
-http://178.253.194.79:10008
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="Sports",Arena Sport 4 (SD) 🇦🇷
-http://178.253.194.79:10009
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="Sports",Arena Sport 5 (SD) 🇦🇷
-http://178.253.194.79:10010
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="Sports",Arena Sport 6 (SD) 🇦🇷
-http://178.253.194.79:10011
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="Sports",Arena Sport 7 (SD) 🇦🇷
-http://178.253.194.79:10012
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="Sports",Arena Sport 8 (SD) 🇦🇷
-http://178.253.194.79:10013
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="Sports",Sports 2.0 (FHD) 🇺🇸
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="Sports",Sportv2 (FHD) 🇧🇷
-http://79.127.243.211:14473
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Sports",DAZN 1 (HD) 🇺🇸
 http://znty.dyndns.org:5010/hls/eleven1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Sports",Redbull TV (HD) 🇺🇸
@@ -314,8 +254,6 @@ https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"group-title="Sports",Euro Sports (HD) 🇺🇸
 https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"group-title="Sports",GOAL TV (FHD) 🇺🇸
-https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Sports",FIGHT TV (HD) 🇺🇸
 https://streams2.sofast.tv/ptnr-yupptv/title-FIGHT-TV-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/aa5b1380-fbb4-48a4-a03d-21fe36643886/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"group-title="Sports",Trace Sport (FHD) 🇺🇸
@@ -330,8 +268,6 @@ https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 https://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Sports",Sports First (FHD) 🇺🇸
 https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Sports",Xtream Sports (FHD) 🇺🇸
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Sports",Swerve Sports (HD) 🇺🇸
 https://a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Sports",30A We Love Cars (HD) 🇺🇸
@@ -368,32 +304,12 @@ https://avr.host247.net/live/emantv/playlist.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
 
 #FM
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FM",AL Quran Radio
-http://66.45.232.131:9994/;stream.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FM",Radio Foorti
-https://node-11.zeno.fm/f0bfdk2w34zuv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FM",Radio Today 89.6
-http://node-24.zeno.fm/0zha3rfq02quv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FM",Radio WOW
-https://stream-41.zeno.fm/d22wrdbst5quv
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FM", Dhaka FM
-http://118.179.219.244:8000/;
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FM", Radio Bangla FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FM", BBC Bangla
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/cellular_main_sd_abr_v2/cfs/bbc_world_service.mpd
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FM", Radio Goon Goon
-https://audio.streamcast.xyz/radio/8000/radio.mp3
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FM", Spice FM
 https://stream.spicefmbd.com/stream.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FM", Big FM
-https://stream-155.zeno.fm/dbstwo3dvhhtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkYnN0d28zZHZoaHR2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ildyc0FrY1pjVG9TRWNtb0VWaVVSeVEiLCJpYXQiOjE3NjA1MzAxMDYsImV4cCI6MTc2MDUzMDE2Nn0.J8jfwwhlPxuUeiDtSglHlvNTltpWVhuNxK2cHPy_4to
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FM", Radio Bolly FM
-https://stream-160.zeno.fm/zu59ykebs2zuv
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FM", Radio Mirchi
-https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1?aw_0_req_lsid=2c0fae177108c9a42a7cf24878625444
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FM", Radio City
-https://n0b.radiojar.com/gmwyu8xdrxquv?rj-ttl=5&rj-tok=AAABmefVT0cAEC8yJftxyPNsng
 
 #Indian
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Indian", DD National (HD) 🇮🇳
@@ -442,8 +358,6 @@ http://103.175.73.12:8080/live/270/270_0.m3u8
 http://103.175.73.12:8080/live/159/159_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Indian",Balle (HD) 🇮🇳
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Indian",Colors Cineplex (FHD) 🇮🇳
-http://66.102.126.10:8000/play/a076/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="Indian",Z Cinema (SD) 🇮🇳
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Indian",Enter10 Bangla (HD) 🇮🇳
@@ -452,8 +366,6 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Indian",ABP Ananda (HD) 🇮🇳
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Indian",Bangla Jago (HD) 🇮🇳
-http://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Indian",Calcutta News (FHD) 🇮🇳
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Indian",Kolkata TV (FHD) 🇮🇳
@@ -530,8 +442,6 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Movies",MovieSphere (FHD) 🇺🇸
 https://mediapackage-ms-source.fullscreen.nz/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Movies",Lol TV (FHD) 🇺🇸
-https://streams2.sofast.tv/ptnr-yupptv/title-LOL-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fc63d5fd-b50e-4d3e-abdf-697d9b6cbf70/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Movies",Great Movies (FHD) 🇺🇸
 https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Movies",Great Romance (FHD) 🇺🇸
@@ -542,8 +452,6 @@ https://d6dg3ebeih71x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Movies",Box Cinema (HD) 🇺🇸
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Movies",HBO (FHD) 🇺🇸
-http://103.213.31.111/HBOHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Movies",My Cinema (HD) 🇺🇸
 https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Movies",Screem (FHD) 🇺🇸
@@ -600,8 +508,6 @@ http://202.70.146.135:8000/play/a05o/index.m3u8
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Documentary", 4K TV (FHD) 🇺🇸
 https://live-aburayhan1103.telewebion.ir/ek/faratar/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Documentary", 4K Travel TV (FHD) 🇺🇸
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?ads.vf=ndSxSDe4vbu
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Documentary", FH Wild TV (HD+)
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Documentary",AMG TV (FHD)
@@ -768,8 +674,6 @@ https://d1l7vcuh4hn9ei.cloudfront.net/8OutOf10Cats_GB.m3u8
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Entertainment", 13 Humor (FHD)
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Entertainment", 13 Ulica (FHD)
-http://91.146.94.234:10001/play/a088
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Entertainment", 30A Darcizzle Offshore (HD) 🇺🇸
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Entertainment", 30A Georgia Hollywood (HD) 🇺🇸
@@ -879,5 +783,3 @@ http://103.225.94.27/Infobase/hdd-2/Bangla/Antarjal%20(2023)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Series",Netflix Hindi Movie
 http://103.225.94.27/Infobase/hdd-3/Hindi%20Dub/Test%20(2025)%201080p%20WEBDL.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65112XTG/Owner.jpg" group-title="Developed By FH Piash", Join Telegram for support.
-https://live20.bozztv.com/giatvplayout7/giatv-2314/playlist.m3u8
