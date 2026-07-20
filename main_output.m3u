@@ -16,20 +16,12 @@ http://114.130.57.233:8080/Somoy-TV-3Mb/video.m3u8?token=SkQuhAXZxgBan1
 https://live.inplyr.com/room/168740.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",Toffee (FHD) 🇧🇩
 https://cdn-tt.pages.dev/ch3.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-id="38" tvg-name="T-SPORTS" tvg-logo="http://10.55.55.2/uploads/1781195242_download.jpg" group-title="FIFA 2026",T-SPORTS
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5f14WWSlUzeFR5XDxiPwD8s/m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="T-SPORTS (BACKUP)" tvg-logo="http://10.55.55.2/uploads/1781244788_download.jpg" group-title="FIFA 2026",T-SPORTS (BACKUP)
 http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5X_g3EgqL4Ej39IWNZ0hAUY/m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="SOMOY TV" tvg-logo="http://10.55.55.2/uploads/1781245786_download-1.png" group-title="FIFA 2026",SOMOY TV
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5f8vQ4Hcta0YljQz0yTwaR8/m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="BTV" tvg-logo="http://10.55.55.2/uploads/1781246287_Bangladesh_Television_Logo.svg" group-title="FIFA 2026",BTV
 http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5Si-HxLJpcEULj_WV6AFEq0/m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="BTV" tvg-logo="http://10.55.55.2/uploads/1781245879_Bangladesh_Television_Logo.svg" group-title="SPORTS",BTV
 http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5Si-HxLJpcEULj_WV6AFEq0/m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="SOMOY TV" tvg-logo="http://10.55.55.2/uploads/1781192056_download-1.png" group-title="SPORTS",SOMOY TV
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5f8vQ4Hcta0YljQz0yTwaR8/m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="T-SPORTS" tvg-logo="http://10.55.55.2/uploads/1763338678_1760005793_t-sports.png" group-title="SPORTS",T-SPORTS
 http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5f14WWSlUzeFR5XDxiPwD8s/m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="T-SPORTS BACKUP" tvg-logo="http://10.55.55.2/uploads/1763338732_1760006703_tsportsbackup.png" group-title="SPORTS",T-SPORTS BACKUP
@@ -38,59 +30,8 @@ http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5X_g3EgqL4Ej39IWNZ0hAUY/m3u8
 http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5VpE1mClXw80bfBvCwlqu-U/m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="PTV" tvg-logo="http://10.55.55.2/uploads/1763401836_1760052160_ptv.png" group-title="SPORTS",PTV
 http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5fCQwl6qqJb1kB4EIwbr8U8/m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="SONY TEN 1" tvg-logo="http://10.55.55.2/uploads/1763401616_1760006760_sony-ten1.png" group-title="SPORTS",SONY TEN 1
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5egZF-A-uXu3yJjgZQocEuU/m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="STAR SPORTS HD 2" tvg-logo="http://10.55.55.2/uploads/1763401519_1760025051_star-sports-select-2.png" group-title="SPORTS",STAR SPORTS HD 2
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5Uvhdmi868QN_tA0ycqWoV0/m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="STAR SPORTS 3" tvg-logo="http://10.55.55.2/uploads/1763401547_1760572807_star-sports-3.png" group-title="SPORTS",STAR SPORTS 3
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5UwBG0jpWeHpPXmcW9ktCBQ/m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="STAR SPORTS SELECT 1" tvg-logo="http://10.55.55.2/uploads/1763401592_1760024970_star-sports-select-1.png" group-title="SPORTS",STAR SPORTS SELECT 1
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5QheVWknSDp3WjzR6qwjv5w/m3u8
-#EXTINF:-1 tvg-id="23" tvg-name="GTV" tvg-logo="http://10.55.55.2/uploads/1763630124_1760006730_gtv.png" group-title="SPORTS",GTV
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5aEPu_BlyB2TwYHQE_MfqmM/m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="SONY TEN 3" tvg-logo="http://10.55.55.2/uploads/1763401756_1760018468_sony-ten2.png" group-title="SPORTS",SONY TEN 3
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5bjcafv2BtxyzUv2_N4UjeI/m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="DBC NEWS" tvg-logo="http://10.55.55.2/uploads/1763629883_1760025754_dbc.png" group-title="NEWS",DBC NEWS
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5etvNkfhzKf0e4LdL_q0_xY/m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="ATN NEWS" tvg-logo="http://10.55.55.2/uploads/1763401109_1760573219_atn-news.png" group-title="NEWS",ATN NEWS
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5TnwWCW7gQbcY0zB1DlejN4/m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="NEWS 24" tvg-logo="http://10.55.55.2/uploads/1764063872_1760025923_news-24.png" group-title="NEWS",NEWS 24
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5eQqtsYrH4LtR_8vWRVbZRs/m3u8
-#EXTINF:-1 tvg-id="26" tvg-name="JAMUNA TV" tvg-logo="http://10.55.55.2/uploads/1763630216_1760025132_jamuna-tv.png" group-title="Bangla Channel",JAMUNA TV
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5ekYdxYzxextuu7kcf_m4zw/m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="channel i" tvg-logo="http://10.55.55.2/uploads/1763401188_1760573294_channel-i.png" group-title="Bangla Channel",channel i
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5QomU-aJyoGiEGKDG9jMAUE/m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="CHANNEL 24" tvg-logo="http://10.55.55.2/uploads/1763630650_1760025672_channel-24.png" group-title="Bangla Channel",CHANNEL 24
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5ROX0HHvPfj0AKtievs7lx0/m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="NAGORIK TV" tvg-logo="http://10.55.55.2/uploads/1763629952_1760006798_nagorik.png" group-title="Bangla Channel",NAGORIK TV
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5Zw9JNVJ9qIcYpm198qvPpk/m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="STAR JALSHA" tvg-logo="http://10.55.55.2/uploads/1763401318_1760027593_star-jalsha.png" group-title="Bangla Channel",STAR JALSHA
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5ViEkmZcTYIq0e1y894y_eU/m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="ZEE BANGLA" tvg-logo="http://10.55.55.2/uploads/1763630315_download.jpg" group-title="Bangla Channel",ZEE BANGLA
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5WqJNGpFhDL-K4JxS4kjnjw/m3u8
-#EXTINF:-1 tvg-id="22" tvg-name="SA TV" tvg-logo="http://10.55.55.2/uploads/1763630101_satv-logo-1.jpg" group-title="Bangla Channel",SA TV
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5VAIhDaKniRJ549EwUV2lrQ/m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="SOMOY TV" tvg-logo="http://10.55.55.2/uploads/1763401269_1760573090_somoytv.png" group-title="Bangla Channel",SOMOY TV
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5TL7ngP_dqqppWbiaHon7lc/m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="MASRANGA" tvg-logo="http://10.55.55.2/uploads/1763630014_1760026496_masranga.png" group-title="Bangla Channel",MASRANGA
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5XNzr684TFEzeNp5dprbc2E/m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="JALSHA MOVIES" tvg-logo="http://10.55.55.2/uploads/1763630683_1760030365_jalshamovies.png" group-title="Movies",JALSHA MOVIES
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5TjWmultB-5BsqkTGC_QESs/m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="STAR MOVIES" tvg-logo="http://10.55.55.2/uploads/1764064153_download.png" group-title="Movies",STAR MOVIES
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5eq4c0eXsNZ3B6DgbBJO2hs/m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="SONY SET HD" tvg-logo="http://10.55.55.2/uploads/1764063978_1760036074_sony-max-hd.png" group-title="Movies",SONY SET HD
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5XbiQKrwZaoYIxx3yPF4IL4/m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="HBO" tvg-logo="http://10.55.55.2/uploads/1763659634_HBO_HD_logo.png" group-title="Movies",HBO
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5UJ6BFSS1SZBh0X5G1T5yXQ/m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="STAR GOLD" tvg-logo="http://10.55.55.2/uploads/1763630250_1760026381_star-gold.png" group-title="Movies",STAR GOLD
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5VrbJCp5tHzxCD6wjZvpxcg/m3u8
-#EXTINF:-1 tvg-id="25" tvg-name="ZEEE CINEMA" tvg-logo="http://10.55.55.2/uploads/1763630173_1760036433_zee-cinema-hd.png" group-title="Movies",ZEEE CINEMA
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5RM7fG-X0FSijBo_A9i_jzY/m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="MOVIES NOW" tvg-logo="http://10.55.55.2/uploads/1763401880_1760607818_moviesnowe.png" group-title="Movies",MOVIES NOW
 http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5Vu48XE0yOwlOCtn4EDJuNo/m3u8
-#EXTINF:-1 tvg-id="35" tvg-name="NICK" tvg-logo="http://10.55.55.2/uploads/1764155219_1760035643_nick-hd.png" group-title="OTHERS",NICK
-http://10.220.220.165:80/play/pNOHr-gC5gZoxr4BNgeh5RwJs-XRnqW5-1rOttiOS8U/m3u8
-
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png"tvg-group="FIFA WC 2026",Mahsun TV (HD) 🇹🇷
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FIFA WC 2026",Telemundo (FHD) 🇵🇷
